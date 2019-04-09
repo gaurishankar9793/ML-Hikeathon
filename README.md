@@ -10,3 +10,5 @@ Hike is a social platform and predicting links in their network forms the basis 
 Can you develop an algorithm to predict whether a Hike user will chat another Hike user who is part of his/her phone contact book?
 
 LINK https://datahack.analyticsvidhya.com/contest/hikeathon/
+
+You can also refer to this blog https://medium.com/@gaurishankarmishra/my-approach-to-ml-hikeathon-898825b69b14
